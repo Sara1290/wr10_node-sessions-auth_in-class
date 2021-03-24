@@ -6,4 +6,4 @@ CREATE TABLE users(
   email varchar(150),
   hash text,
   admin boolean DEFAULT false
-)
+);
